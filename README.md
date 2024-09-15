@@ -1,5 +1,5 @@
 ### DodgetIt
 
-Using Greenfoot and Github
-
-https://www.youtube.com/live/lnh4UEZYujM
+1- git init
+2- git config user.name "scarlettho"
+3- git config user.email "sswho88@gmail.com"
